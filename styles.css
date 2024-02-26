@@ -16,3 +16,21 @@ th{
 .firstCol{
 	text-align:left;
 }
+
+.row1{
+	background-color:#C0504D;
+	color:white;
+}
+
+.row2{
+	background-color:#DA9694;
+	color:white;
+}
+
+.row3{
+	background-color:#F2DCDB;
+}
+
+.row4{
+	background-color:#D9D9D9;
+}
